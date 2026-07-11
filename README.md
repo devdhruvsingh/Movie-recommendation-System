@@ -422,9 +422,6 @@ You are free to use, modify, and distribute this project while retaining the ori
 **Data Scientist | Product Manager | Machine Learning Enthusiast**
 
 - GitHub: https://github.com/devdhruvsingh
-- LinkedIn: *(Add your LinkedIn profile)*
-- Portfolio: *(Add your portfolio website if available)*
-
 ---
 
 ## ⭐ If you found this project useful, don't forget to star the repository!
